@@ -1,0 +1,3 @@
+package.json -> npm init -y
+Express (node_modules) -> npm i --save express
+Nodemon -> npm i --save nodemon
